@@ -1,0 +1,98 @@
+            nav{
+                border-radius:  5px;
+                border:  3px solid #6495ed;
+                background-color:  #BDC2EE;
+                text-align:  center;
+            }            
+   
+            
+            div {
+                border-radius:  5px;
+                border:  3px solid #6495ed;
+                background-color:  #BDC2EE;
+                text-align:  center;
+                font-family:  Garamond, serif;
+                margin: 5px;
+        
+            }
+               header{
+                   position: relative;
+                   text-align:  left;
+                   height: 200px;
+                    border-radius:  5px;
+                border:  3px solid #6495ed;
+                background-color:  #BDC2EE;
+                text-align:  left;
+                font-family:  Garamond, serif;
+                margin: 5px;
+                  
+                   
+                   
+               }
+               header img{
+                   height:  185px;
+                   width:  540px;
+                   float:  right;
+                   border: 2px solid #6495ED;
+                   margin-top: -70px;
+                  margin-left: 20px;
+                   border-radius: 5px;
+                  
+                   
+                                      
+               }
+               aside{
+                   display: inline;
+                   width: 45%;
+                   position: relative;
+                   float:  right;
+                    border-radius:  5px;
+                border:  3px solid #6495ed;
+                background-color:  #BDC2EE;
+                text-align:  center;
+                font-family:  Garamond, serif;
+                margin: 5px;
+               }
+              aside img {
+                height: 100px;
+                width: 100px;
+                position:  relative;
+                border:  3px solid red;
+                
+            }
+               section{
+                   width: 45%;
+                    display: inline;
+                   position: relative;
+                   float:  left;
+                    border-radius:  5px;
+                border:  3px solid #6495ed;
+                background-color:  #BDC2EE;
+                text-align:  center;
+                font-family:  Garamond, serif;
+                margin: 5px;
+                   
+                   
+               }
+               aricle{
+                    
+                   
+                   display: inline;
+                   position: relative;
+                   clear:  both;
+                   
+                border:  3px solid #6495ed;
+                border-radius:  5px;
+                background-color:  #BDC2EE;
+                text-align:  center;
+                font-family:  Garamond, serif;
+                margin: 2px;
+                   
+                   
+               }
+               
+               footer{
+                   clear: both;
+                   position:  relative;
+               }
+             
